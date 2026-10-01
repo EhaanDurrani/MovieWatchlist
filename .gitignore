@@ -1,0 +1,30 @@
+# Office temp files
+~$*
+*.tmp
+
+# macOS junk
+__MACOSX/
+.DS_Store
+
+# IDE / editor
+.idea/
+*.iml
+.vscode/
+out/
+build/
+
+# Java compiled
+bin/
+*.class
+
+# AI assistant files
+AGENTS.md
+CLAUDE.md
+.claude/
+
+# Archives / large media
+*.zip
+*.mov
+
+# Env
+.env
